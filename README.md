@@ -54,11 +54,6 @@ Options
 
 --ignored_contains: Comma-separated list of URL parts to ignore (e.g., news,archive).
 
-Example
-
-To crawl https://uniag.sk/ with a depth of 3 and an aggressiveness level of 2:
-
-python web_crawler.py https://uniag.sk/ -d 3 -a 2
 
 Aggressiveness Levels
 
